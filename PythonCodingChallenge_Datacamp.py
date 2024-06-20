@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 12 10:15:52 2024
-
-@author: RiditaAli
-"""
 
 ###https://www.freecodecamp.org/news/python-coding-challenges-for-beginners/#python-challenge-3-loves-me-loves-me-not
 
